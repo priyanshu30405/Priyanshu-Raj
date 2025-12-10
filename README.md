@@ -17,6 +17,5 @@ Each file contains the solution for one problem.
 ## Notes
 - No external libraries are used  
 - Code is written in a simple and easy-to-understand manner  
-- Programs can be run independently  
 
 The GitHub repository link has been submitted in the Google Form.
